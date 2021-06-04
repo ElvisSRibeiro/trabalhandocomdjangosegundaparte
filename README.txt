@@ -6,7 +6,7 @@
 //Password: 123456789
 
 Seguindo o tutorial disponivel na documentação do Django.
-Partes 1, 2, 3 e 4
+Partes 5 ,6, 7
 
 source <pasta do venv>/bin/activate
 python3 manage.py runserver
